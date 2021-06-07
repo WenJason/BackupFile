@@ -1,0 +1,304 @@
+articles/automation/automation-dsc-getting-started.md	Suggestion	View	magoedte			automation	dsc	
+Line 13: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/scripting/dsc/overview/overview' will be broken in isolated environments. Replace with a relative link.
+Line 27: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/scripting/dsc/configurations/configurations' will be broken in isolated environments. Replace with a relative link.
+Line 58: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/scripting/dsc/reference/resources/windows/windowsfeatureresource' will be broken in isolated environments. Replace with a relative link.
+Line 94: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/scripting/dsc/configurations/configurations' will be broken in isolated environments. Replace with a relative link.
+Line 167: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/scripting/dsc/managing-nodes/metaConfig' will be broken in isolated environments. Replace with a relative link.
+Line 213: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/scripting/dsc/pull-server/reportserver' will be broken in isolated environments. Replace with a relative link.
+Line 243: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/scripting/dsc/overview/overview' will be broken in isolated environments. Replace with a relative link.
+Line 245: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/az.automation' will be broken in isolated environments. Replace with a relative link.
+articles/automation/automation-role-based-access-control.md	Suggestion	View	magoedte			automation	shared-capabilities	
+Line 269: [Suggestion] Absolute link 'https://docs.microsoft.com/rest/api/automation/softwareupdateconfigurationmachineruns' will be broken in isolated environments. Replace with a relative link.
+Line 271: [Suggestion] Absolute link 'https://docs.microsoft.com/rest/api/automation/softwareupdateconfigurations' will be broken in isolated environments. Replace with a relative link.
+Line 272: [Suggestion] Absolute link 'https://docs.microsoft.com/rest/api/automation/softwareupdateconfigurations' will be broken in isolated environments. Replace with a relative link.
+Line 323: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/Az.Resources/Get-AzRoleDefinition' will be broken in isolated environments. Replace with a relative link.
+Line 342: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/az.resources/get-azroleassignment' will be broken in isolated environments. Replace with a relative link.
+Line 364: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/Az.Resources/New-AzRoleAssignment' will be broken in isolated environments. Replace with a relative link.
+Line 386: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/Az.Resources/Remove-AzRoleAssignment' will be broken in isolated environments. Replace with a relative link.
+articles/automation/automation-runbook-types.md	Suggestion	View	magoedte			automation	process-automation	
+Line 68: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/az.automation/start-azautomationrunbook' will be broken in isolated environments. Replace with a relative link.
+Line 76: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/microsoft.powershell.management/get-process' will be broken in isolated environments. Replace with a relative link.
+articles/automation/create-run-as-account.md	Suggestion	View	magoedte			automation	process-automation	
+Line 42: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/azure/install-az-ps' will be broken in isolated environments. Replace with a relative link.
+articles/automation/learn/automation-tutorial-runbook-textual-python2.md	Suggestion	View	magoedte			automation	process-automation	
+Line 113: [Suggestion] Absolute link 'https://docs.microsoft.com/azure/python/python-sdk-azure-authenticate' will be broken in isolated environments. Replace with a relative link.
+Line 161: [Suggestion] Absolute link 'https://docs.microsoft.com/python/api/azure-mgmt-compute/azure.mgmt.compute.computemanagementclient' will be broken in isolated environments. Replace with a relative link.
+Line 247: [Suggestion] Absolute link 'https://docs.microsoft.com/azure/python/' will be broken in isolated environments. Replace with a relative link.
+articles/automation/quickstart-create-automation-account-template.md	Suggestion	View	WenJason			automation		
+Line 6: [Suggestion] Invalid value for 'ms.author', 'WenJason' is not a valid Microsoft alias.
+Line 255: [Suggestion] Absolute link 'https://docs.microsoft.com/azure/templates/microsoft.operationalinsights/workspaces' will be broken in isolated environments. Replace with a relative link.
+Line 256: [Suggestion] Absolute link 'https://docs.microsoft.com/azure/templates/microsoft.automation/automationaccounts' will be broken in isolated environments. Replace with a relative link.
+Line 257: [Suggestion] Absolute link 'https://docs.microsoft.com/azure/templates/microsoft.operationalinsights/workspaces/linkedservices' will be broken in isolated environments. Replace with a relative link.
+articles/automation/state-configuration/remove-node-and-configuration-package.md	Suggestion	View	magoedte			automation	dsc	
+Line 36: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/az.automation/unregister-azautomationdscnode' will be broken in isolated environments. Replace with a relative link.
+Line 39: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/azurerm.automation/unregister-azurermautomationdscnode' will be broken in isolated environments. Replace with a relative link.
+Line 67: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/psdesiredstateconfiguration/remove-dscconfigurationdocument' will be broken in isolated environments. Replace with a relative link.
+articles/automation/update-management/overview.md	Suggestion	View	magoedte			automation	update-management	
+Line 27: [Suggestion] Absolute link 'https://docs.microsoft.com/windows-server/administration/windows-server-update-services/get-started/windows-server-update-services-wsus' will be broken in isolated environments. Replace with a relative link.
+Line 40: [Suggestion] Absolute link 'https://docs.microsoft.com/windows-server/administration/windows-server-update-services/get-started/windows-server-update-services-wsus' will be broken in isolated environments. Replace with a relative link.
+Line 100: [Suggestion] Absolute link 'https://docs.microsoft.com/dotnet/framework/install/guide-for-developers' will be broken in isolated environments. Replace with a relative link.
+Line 110: [Suggestion] Absolute link 'https://docs.microsoft.com/windows-server/administration/windows-server-update-services/deploy/4-configure-group-policy-settings-for-automatic-updates' will be broken in isolated environments. Replace with a relative link.
+Line 164: [Suggestion] Absolute link 'https://docs.microsoft.com/windows/deployment/update/windows-update-troubleshooting#issues-related-to-httpproxy' will be broken in isolated environments. Replace with a relative link.
+Line 164: [Suggestion] Absolute link 'https://docs.microsoft.com/windows-server/administration/windows-server-update-services/plan/plan-your-wsus-deployment' will be broken in isolated environments. Replace with a relative link.
+Line 164: [Suggestion] Absolute link 'https://docs.microsoft.com/windows/deployment/update/waas-wu-settings#configuring-automatic-updates-by-editing-the-registry' will be broken in isolated environments. Replace with a relative link.
+Line 217: [Suggestion] Absolute link 'https://docs.microsoft.com/configmgr/sum/tools/updates-publisher' will be broken in isolated environments. Replace with a relative link.
+Line 217: [Suggestion] Absolute link 'https://docs.microsoft.com/configmgr/sum/tools/install-updates-publisher' will be broken in isolated environments. Replace with a relative link.
+articles/data-factory/connector-azure-sql-data-warehouse.md	Suggestion	View	v-jay			data-factory		
+Line 134: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/system-stored-procedures/sp-addrolemember-transact-sql' will be broken in isolated environments. Replace with a relative link.
+Line 180: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/system-stored-procedures/sp-addrolemember-transact-sql' will be broken in isolated environments. Replace with a relative link.
+Line 257: [Suggestion] Absolute link 'https://docs.microsoft.com/dotnet/api/system.data.isolationlevel' will be broken in isolated environments. Replace with a relative link.
+Line 366: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/polybase/polybase-guide' will be broken in isolated environments. Replace with a relative link.
+Line 366: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/t-sql/statements/copy-into-transact-sql' will be broken in isolated environments. Replace with a relative link.
+Line 375: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/t-sql/statements/copy-into-transact-sql' will be broken in isolated environments. Replace with a relative link.
+Line 467: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/polybase/polybase-guide' will be broken in isolated environments. Replace with a relative link.
+Line 479: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/t-sql/statements/create-external-table-transact-sql' will be broken in isolated environments. Replace with a relative link.
+Line 482: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/t-sql/statements/create-external-file-format-transact-sql' will be broken in isolated environments. Replace with a relative link.
+Line 516: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/t-sql/statements/create-external-table-transact-sql#arguments-2' will be broken in isolated environments. Replace with a relative link.
+Line 608: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/security/permissions-database-engine' will be broken in isolated environments. Replace with a relative link.
+Line 632: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/t-sql/statements/create-external-file-format-transact-sql#arguments' will be broken in isolated environments. Replace with a relative link.
+Line 663: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/t-sql/statements/copy-into-transact-sql' will be broken in isolated environments. Replace with a relative link.
+Line 707: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/t-sql/statements/copy-into-transact-sql' will be broken in isolated environments. Replace with a relative link.
+articles/data-factory/connector-dynamics-crm-office-365.md	Suggestion	View	v-jay			data-factory		
+Line 54: [Suggestion] Absolute link 'https://docs.microsoft.com/dynamics365/customer-engagement/developer/build-windows-client-applications-xrm-tools' will be broken in isolated environments. Replace with a relative link.
+Line 58: [Suggestion] Absolute link 'https://docs.microsoft.com/powerapps/developer/common-data-service/build-web-applications-server-server-s2s-authentication' will be broken in isolated environments. Replace with a relative link.
+Line 250: [Suggestion] Absolute link 'https://docs.microsoft.com/previous-versions/dynamicscrm-2016/developers-guide/gg328332(v=crm.8)' will be broken in isolated environments. Replace with a relative link.
+Line 327: [Suggestion] Absolute link 'https://docs.microsoft.com/previous-versions/dynamicscrm-2016/developers-guide/jj863631(v=crm.8)#Run-time%20limitations' will be broken in isolated environments. Replace with a relative link.
+Line 369: [Suggestion] Absolute link 'https://docs.microsoft.com/dynamics365/customer-engagement/web-api/savedquery' will be broken in isolated environments. Replace with a relative link.
+Line 369: [Suggestion] Absolute link 'https://docs.microsoft.com/dynamics365/customer-engagement/web-api/userquery' will be broken in isolated environments. Replace with a relative link.
+articles/data-factory/create-self-hosted-integration-runtime.md	Suggestion	View	v-jay			data-factory		
+Line 63: [Suggestion] Absolute link 'https://docs.microsoft.com/dotnet/framework/get-started/system-requirements' will be broken in isolated environments. Replace with a relative link.
+Line 314: [Suggestion] Absolute link 'https://docs.microsoft.com/dotnet/framework/configure-apps/file-schema/network/proxy-element-network-settings' will be broken in isolated environments. Replace with a relative link.
+articles/data-factory/format-binary.md	Suggestion	View	v-jay			data-factory		
+Line 33: [Suggestion] Absolute link 'https://docs.microsoft.com/dotnet/api/system.io.compression.compressionlevel' will be broken in isolated environments. Replace with a relative link.
+articles/data-factory/format-delimited-text.md	Suggestion	View	v-jay			data-factory		
+Line 36: [Suggestion] Absolute link 'https://docs.microsoft.com/dotnet/api/system.io.compression.compressionlevel' will be broken in isolated environments. Replace with a relative link.
+articles/data-factory/format-excel.md	Suggestion	View	v-jay			data-factory		
+Line 37: [Suggestion] Absolute link 'https://docs.microsoft.com/dotnet/api/system.io.compression.compressionlevel' will be broken in isolated environments. Replace with a relative link.
+articles/data-factory/format-json.md	Suggestion	View	v-jay			data-factory		
+Line 31: [Suggestion] Absolute link 'https://docs.microsoft.com/dotnet/api/system.io.compression.compressionlevel' will be broken in isolated environments. Replace with a relative link.
+articles/data-factory/format-xml.md	Suggestion	View	v-jay			data-factory		
+Line 32: [Suggestion] Absolute link 'https://docs.microsoft.com/dotnet/api/system.io.compression.compressionlevel' will be broken in isolated environments. Replace with a relative link.
+articles/data-factory/how-to-configure-azure-ssis-ir-custom-setup.md	Suggestion	View	v-jay			data-factory		
+Line 56: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/azure/install-az-ps' will be broken in isolated environments. Replace with a relative link.
+Line 119: [Suggestion] Absolute link 'https://docs.microsoft.com/windows-server/administration/windows-commands/cmdkey' will be broken in isolated environments. Replace with a relative link.
+Line 123: [Suggestion] Absolute link 'https://docs.microsoft.com/windows-server/administration/windows-commands/set_1' will be broken in isolated environments. Replace with a relative link.
+Line 329: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/integration-services/control-flow/azure-blob-download-task' will be broken in isolated environments. Replace with a relative link.
+Line 337: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/integration-services/azure-feature-pack-for-integration-services-ssis#dependency-on-java' will be broken in isolated environments. Replace with a relative link.
+articles/data-factory/quickstart-create-data-factory-resource-manager-template.md	Suggestion	View	v-jay			data-factory		
+Line 253: [Suggestion] Absolute link 'https://docs.microsoft.com/azure/templates/Microsoft.Storage/storageAccounts' will be broken in isolated environments. Replace with a relative link.
+Line 254: [Suggestion] Absolute link 'https://docs.microsoft.com/azure/templates/microsoft.datafactory/factories' will be broken in isolated environments. Replace with a relative link.
+Line 255: [Suggestion] Absolute link 'https://docs.microsoft.com/azure/templates/microsoft.datafactory/factories/linkedservices' will be broken in isolated environments. Replace with a relative link.
+Line 256: [Suggestion] Absolute link 'https://docs.microsoft.com/azure/templates/microsoft.datafactory/factories/datasets' will be broken in isolated environments. Replace with a relative link.
+Line 257: [Suggestion] Absolute link 'https://docs.microsoft.com/azure/templates/microsoft.datafactory/factories/pipelines' will be broken in isolated environments. Replace with a relative link.
+articles/data-factory/self-hosted-integration-runtime-troubleshoot-guide.md	Suggestion	View	v-jay			data-factory		
+Line 164: [Suggestion] Absolute link 'https://docs.microsoft.com/dotnet/framework/app-domains/gac' will be broken in isolated environments. Replace with a relative link.
+Line 788: [Suggestion] Absolute link 'https://docs.microsoft.com/skype-sdk/sdn/articles/installing-the-trusted-root-certificate' will be broken in isolated environments. Replace with a relative link.
+articles/data-factory/transform-data.md	Suggestion	View	v-jay			data-factory		
+Line 43: [Suggestion] Absolute link 'https://docs.microsoft.com/power-query/' will be broken in isolated environments. Replace with a relative link.
+articles/data-factory/wrangling-functions.md	Suggestion	View	v-jay			data-factory		
+Line 16: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/power-query-m-reference' will be broken in isolated environments. Replace with a relative link.
+Line 29: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/table-selectcolumns' will be broken in isolated environments. Replace with a relative link.
+Line 30: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/table-removecolumns' will be broken in isolated environments. Replace with a relative link.
+Line 31: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/table-renamecolumns' will be broken in isolated environments. Replace with a relative link.
+Line 31: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/table-prefixcolumns' will be broken in isolated environments. Replace with a relative link.
+Line 31: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/table-transformcolumnnames' will be broken in isolated environments. Replace with a relative link.
+Line 32: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/table-reordercolumns' will be broken in isolated environments. Replace with a relative link.
+Line 36: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/table-selectrows' will be broken in isolated environments. Replace with a relative link.
+Line 40: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/number-iseven' will be broken in isolated environments. Replace with a relative link.
+Line 40: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/number-iseven' will be broken in isolated environments. Replace with a relative link.
+Line 41: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/text-contains' will be broken in isolated environments. Replace with a relative link.
+Line 41: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/text-startswith' will be broken in isolated environments. Replace with a relative link.
+Line 41: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/text-endswith' will be broken in isolated environments. Replace with a relative link.
+Line 42: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/date-functions' will be broken in isolated environments. Replace with a relative link.
+Line 47: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/table-addcolumn' will be broken in isolated environments. Replace with a relative link.
+Line 47: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/table-transformcolumns' will be broken in isolated environments. Replace with a relative link.
+Line 47: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/table-replacevalue' will be broken in isolated environments. Replace with a relative link.
+Line 47: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/table-duplicatecolumn' will be broken in isolated environments. Replace with a relative link.
+Line 51: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/date-adddays' will be broken in isolated environments. Replace with a relative link.
+Line 51: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/date-addmonths' will be broken in isolated environments. Replace with a relative link.
+Line 51: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/date-addquarters' will be broken in isolated environments. Replace with a relative link.
+Line 51: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/date-addweeks' will be broken in isolated environments. Replace with a relative link.
+Line 51: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/date-addyears' will be broken in isolated environments. Replace with a relative link.
+Line 52: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/sharpduration' will be broken in isolated environments. Replace with a relative link.
+Line 52: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/duration-days' will be broken in isolated environments. Replace with a relative link.
+Line 52: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/duration-hours' will be broken in isolated environments. Replace with a relative link.
+Line 52: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/duration-minutes' will be broken in isolated environments. Replace with a relative link.
+Line 52: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/duration-seconds' will be broken in isolated environments. Replace with a relative link.
+Line 52: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/duration-totaldays' will be broken in isolated environments. Replace with a relative link.
+Line 52: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/duration-totalhours' will be broken in isolated environments. Replace with a relative link.
+Line 52: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/duration-totalminutes' will be broken in isolated environments. Replace with a relative link.
+Line 52: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/duration-totalseconds' will be broken in isolated environments. Replace with a relative link.
+Line 53: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/number-functions#operations' will be broken in isolated environments. Replace with a relative link.
+Line 53: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/number-functions#rounding' will be broken in isolated environments. Replace with a relative link.
+Line 53: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/number-functions#trigonometry' will be broken in isolated environments. Replace with a relative link.
+Line 54: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/replacer-replacetext' will be broken in isolated environments. Replace with a relative link.
+Line 54: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/replacer-replacevalue' will be broken in isolated environments. Replace with a relative link.
+Line 54: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/text-replace' will be broken in isolated environments. Replace with a relative link.
+Line 54: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/text-remove' will be broken in isolated environments. Replace with a relative link.
+Line 55: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/text-positionof' will be broken in isolated environments. Replace with a relative link.
+Line 55: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/text-length' will be broken in isolated environments. Replace with a relative link.
+Line 55: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/text-start' will be broken in isolated environments. Replace with a relative link.
+Line 55: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/text-end' will be broken in isolated environments. Replace with a relative link.
+Line 55: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/text-middle' will be broken in isolated environments. Replace with a relative link.
+Line 55: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/text-replacerange' will be broken in isolated environments. Replace with a relative link.
+Line 55: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/text-removerange' will be broken in isolated environments. Replace with a relative link.
+Line 56: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/text-lower' will be broken in isolated environments. Replace with a relative link.
+Line 56: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/text-upper' will be broken in isolated environments. Replace with a relative link.
+Line 57: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/text-trim' will be broken in isolated environments. Replace with a relative link.
+Line 57: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/text-trimstart' will be broken in isolated environments. Replace with a relative link.
+Line 57: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/text-trimend' will be broken in isolated environments. Replace with a relative link.
+Line 57: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/text-padstart' will be broken in isolated environments. Replace with a relative link.
+Line 57: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/text-padend' will be broken in isolated environments. Replace with a relative link.
+Line 57: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/text-reverse' will be broken in isolated environments. Replace with a relative link.
+Line 58: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/date-day' will be broken in isolated environments. Replace with a relative link.
+Line 58: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/date-month' will be broken in isolated environments. Replace with a relative link.
+Line 58: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/date-year' will be broken in isolated environments. Replace with a relative link.
+Line 58: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/time-hour' will be broken in isolated environments. Replace with a relative link.
+Line 58: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/time-minute' will be broken in isolated environments. Replace with a relative link.
+Line 58: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/time-second' will be broken in isolated environments. Replace with a relative link.
+Line 58: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/date-dayofweek' will be broken in isolated environments. Replace with a relative link.
+Line 58: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/date-dayofyear' will be broken in isolated environments. Replace with a relative link.
+Line 58: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/date-daysinmonth' will be broken in isolated environments. Replace with a relative link.
+Line 67: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/table-addjoincolumn' will be broken in isolated environments. Replace with a relative link.
+Line 71: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/table-join' will be broken in isolated environments. Replace with a relative link.
+Line 76: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/joinkind-inner' will be broken in isolated environments. Replace with a relative link.
+Line 77: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/joinkind-leftouter' will be broken in isolated environments. Replace with a relative link.
+Line 78: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/joinkind-rightouter' will be broken in isolated environments. Replace with a relative link.
+Line 79: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/joinkind-fullouter' will be broken in isolated environments. Replace with a relative link.
+Line 81: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/value-equals' will be broken in isolated environments. Replace with a relative link.
+Line 83: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/value-nullableequals' will be broken in isolated environments. Replace with a relative link.
+Line 88: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/table-group' will be broken in isolated environments. Replace with a relative link.
+Line 91: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/list-sum' will be broken in isolated environments. Replace with a relative link.
+Line 92: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/list-count' will be broken in isolated environments. Replace with a relative link.
+Line 93: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/list-average' will be broken in isolated environments. Replace with a relative link.
+Line 94: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/list-min' will be broken in isolated environments. Replace with a relative link.
+Line 95: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/list-max' will be broken in isolated environments. Replace with a relative link.
+Line 96: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/list-standarddeviation' will be broken in isolated environments. Replace with a relative link.
+Line 97: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/list-first' will be broken in isolated environments. Replace with a relative link.
+Line 98: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/list-last' will be broken in isolated environments. Replace with a relative link.
+Line 102: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/table-sort' will be broken in isolated environments. Replace with a relative link.
+Line 108: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/table-firstn' will be broken in isolated environments. Replace with a relative link.
+Line 109: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/table-skip' will be broken in isolated environments. Replace with a relative link.
+Line 110: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/table-removefirstn' will be broken in isolated environments. Replace with a relative link.
+Line 111: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/table-range' will be broken in isolated environments. Replace with a relative link.
+Line 112: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/table-minn' will be broken in isolated environments. Replace with a relative link.
+Line 113: [Suggestion] Absolute link 'https://docs.microsoft.com/powerquery-m/table-maxn' will be broken in isolated environments. Replace with a relative link.
+articles/data-factory/wrangling-overview.md	Suggestion	View	v-jay			data-factory		
+Line 18: [Suggestion] Absolute link 'https://docs.microsoft.com/power-query/' will be broken in isolated environments. Replace with a relative link.
+articles/synapse-analytics/sql-data-warehouse/backup-and-restore.md	Suggestion	View	v-jay			synapse-analytics	sql-dw	
+Line 44: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/azurerm.sql/remove-azurermsqldatabaserestorepoint' will be broken in isolated environments. Replace with a relative link.
+Line 44: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/az.sql/new-azsqldatabaserestorepoint?toc=/synapse-analytics/sql-data-warehouse/toc.json&bc=/synapse-analytics/sql-data-warehouse/breadcrumb/toc.jsont#examples' will be broken in isolated environments. Replace with a relative link.
+Line 77: [Suggestion] Absolute link 'https://docs.microsoft.com/rest/api/storageservices/Understanding-How-Snapshots-Accrue-Charges?toc=/synapse-analytics/sql-data-warehouse/toc.json&bc=/synapse-analytics/sql-data-warehouse/breadcrumb/toc.json' will be broken in isolated environments. Replace with a relative link.
+Line 89: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/t-sql/statements/alter-database-transact-sql?toc=/synapse-analytics/sql-data-warehouse/toc.json&bc=/synapse-analytics/sql-data-warehouse/breadcrumb/toc.json&view=azure-sqldw-latest' will be broken in isolated environments. Replace with a relative link.
+Line 89: [Suggestion-PR only] Did you mean to link to a specific version? It's usually better not to specify a version, so the link always goes to the canonical version. If you really need to link to a specific version, add &preserve-view=true to the URL: https://docs.microsoft.com/sql/t-sql/statements/alter-database-transact-sql?toc=/synapse-analytics/sql-data-warehouse/toc.json&bc=/synapse-analytics/sql-data-warehouse/breadcrumb/toc.json&view=azure-sqldw-latest. Otherwise, remove the view parameter.
+articles/synapse-analytics/sql-data-warehouse/design-guidance-for-replicated-tables.md	Suggestion	View	v-jay			synapse-analytics	sql-dw	
+Line 43: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/t-sql/database-console-commands/dbcc-pdw-showspaceused-transact-sql?toc=/synapse-analytics/sql-data-warehouse/toc.json&bc=/synapse-analytics/sql-data-warehouse/breadcrumb/toc.json&view=azure-sqldw-latest' will be broken in isolated environments. Replace with a relative link.
+Line 43: [Suggestion-PR only] Did you mean to link to a specific version? It's usually better not to specify a version, so the link always goes to the canonical version. If you really need to link to a specific version, add &preserve-view=true to the URL: https://docs.microsoft.com/sql/t-sql/database-console-commands/dbcc-pdw-showspaceused-transact-sql?toc=/synapse-analytics/sql-data-warehouse/toc.json&bc=/synapse-analytics/sql-data-warehouse/breadcrumb/toc.json&view=azure-sqldw-latest. Otherwise, remove the view parameter.
+Line 44: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/system-dynamic-management-views/sys-dm-pdw-request-steps-transact-sql' will be broken in isolated environments. Replace with a relative link.
+Line 75: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/t-sql/statements/create-table-as-select-azure-sql-data-warehouse?toc=/synapse-analytics/sql-data-warehouse/toc.json&bc=/synapse-analytics/sql-data-warehouse/breadcrumb/toc.json&view=azure-sqldw-latest' will be broken in isolated environments. Replace with a relative link.
+Line 75: [Suggestion-PR only] Did you mean to link to a specific version? It's usually better not to specify a version, so the link always goes to the canonical version. If you really need to link to a specific version, add &preserve-view=true to the URL: https://docs.microsoft.com/sql/t-sql/statements/create-table-as-select-azure-sql-data-warehouse?toc=/synapse-analytics/sql-data-warehouse/toc.json&bc=/synapse-analytics/sql-data-warehouse/breadcrumb/toc.json&view=azure-sqldw-latest. Otherwise, remove the view parameter.
+Line 96: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/system-dynamic-management-views/sys-dm-pdw-request-steps-transact-sql?toc=/synapse-analytics/sql-data-warehouse/toc.json&bc=/synapse-analytics/sql-data-warehouse/breadcrumb/toc.json&view=azure-sqldw-latest' will be broken in isolated environments. Replace with a relative link.
+Line 96: [Suggestion-PR only] Did you mean to link to a specific version? It's usually better not to specify a version, so the link always goes to the canonical version. If you really need to link to a specific version, add &preserve-view=true to the URL: https://docs.microsoft.com/sql/relational-databases/system-dynamic-management-views/sys-dm-pdw-request-steps-transact-sql?toc=/synapse-analytics/sql-data-warehouse/toc.json&bc=/synapse-analytics/sql-data-warehouse/breadcrumb/toc.json&view=azure-sqldw-latest. Otherwise, remove the view parameter.
+Line 167: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/system-catalog-views/sys-pdw-replicated-table-cache-state-transact-sql?toc=/synapse-analytics/sql-data-warehouse/toc.json&bc=/synapse-analytics/sql-data-warehouse/breadcrumb/toc.json&view=azure-sqldw-latest' will be broken in isolated environments. Replace with a relative link.
+Line 167: [Suggestion-PR only] Did you mean to link to a specific version? It's usually better not to specify a version, so the link always goes to the canonical version. If you really need to link to a specific version, add &preserve-view=true to the URL: https://docs.microsoft.com/sql/relational-databases/system-catalog-views/sys-pdw-replicated-table-cache-state-transact-sql?toc=/synapse-analytics/sql-data-warehouse/toc.json&bc=/synapse-analytics/sql-data-warehouse/breadcrumb/toc.json&view=azure-sqldw-latest. Otherwise, remove the view parameter.
+Line 190: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/t-sql/statements/create-table-azure-sql-data-warehouse?toc=/synapse-analytics/sql-data-warehouse/toc.json&bc=/synapse-analytics/sql-data-warehouse/breadcrumb/toc.json&view=azure-sqldw-latest' will be broken in isolated environments. Replace with a relative link.
+Line 190: [Suggestion-PR only] Did you mean to link to a specific version? It's usually better not to specify a version, so the link always goes to the canonical version. If you really need to link to a specific version, add &preserve-view=true to the URL: https://docs.microsoft.com/sql/t-sql/statements/create-table-azure-sql-data-warehouse?toc=/synapse-analytics/sql-data-warehouse/toc.json&bc=/synapse-analytics/sql-data-warehouse/breadcrumb/toc.json&view=azure-sqldw-latest. Otherwise, remove the view parameter.
+Line 191: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/t-sql/statements/create-table-as-select-azure-sql-data-warehouse?toc=/synapse-analytics/sql-data-warehouse/toc.json&bc=/synapse-analytics/sql-data-warehouse/breadcrumb/toc.json&view=azure-sqldw-latest' will be broken in isolated environments. Replace with a relative link.
+Line 191: [Suggestion-PR only] Did you mean to link to a specific version? It's usually better not to specify a version, so the link always goes to the canonical version. If you really need to link to a specific version, add &preserve-view=true to the URL: https://docs.microsoft.com/sql/t-sql/statements/create-table-as-select-azure-sql-data-warehouse?toc=/synapse-analytics/sql-data-warehouse/toc.json&bc=/synapse-analytics/sql-data-warehouse/breadcrumb/toc.json&view=azure-sqldw-latest. Otherwise, remove the view parameter.
+articles/synapse-analytics/sql-data-warehouse/sql-data-warehouse-restore-from-geo-backup.md	Suggestion	View	v-jay			synapse-analytics	sql-dw	
+Line 29: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/az.sql/get-azsqldatabasegeobackup?toc=/synapse-analytics/sql-data-warehouse/toc.json&bc=/synapse-analytics/sql-data-warehouse/breadcrumb/toc.json' will be broken in isolated environments. Replace with a relative link.
+Line 29: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/az.sql/restore-azsqldatabase?toc=/synapse-analytics/sql-data-warehouse/toc.json&bc=/synapse-analytics/sql-data-warehouse/breadcrumb/toc.json' will be broken in isolated environments. Replace with a relative link.
+Line 35: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/azure/?toc=/synapse-analytics/sql-data-warehouse/toc.json&bc=/synapse-analytics/sql-data-warehouse/breadcrumb/toc.json' will be broken in isolated environments. Replace with a relative link.
+articles/automation/TOC.yml	Succeeded	View						
+articles/automation/manage-runas-account.md	Succeeded	View						
+articles/automation/state-configuration/media/remove-node-and-configuration-package/configurations-tab.png	Succeeded	View						
+articles/automation/state-configuration/media/remove-node-and-configuration-package/delete-extension.png	Succeeded	View						
+articles/automation/state-configuration/media/remove-node-and-configuration-package/unregister-node.png	Succeeded	View						
+articles/data-factory/TOC.yml	Succeeded	View						
+articles/data-factory/connector-amazon-s3-compatible-storage.md	Succeeded	View						
+articles/data-factory/connector-amazon-simple-storage-service.md	Succeeded	View						
+articles/data-factory/connector-azure-cosmos-db-mongodb-api.md	Succeeded	View						
+articles/data-factory/connector-oracle-cloud-storage.md	Succeeded	View						
+articles/data-factory/control-flow-execute-data-flow-activity.md	Succeeded	View						
+articles/data-factory/control-flow-get-metadata-activity.md	Succeeded	View						
+articles/data-factory/control-flow-power-query-activity.md	Succeeded	View						
+articles/data-factory/control-flow-system-variables.md	Succeeded	View						
+articles/data-factory/copy-activity-log.md	Succeeded	View						
+articles/data-factory/copy-activity-overview.md	Succeeded	View						
+articles/data-factory/data-factory-tutorials.md	Succeeded	View						
+articles/data-factory/data-flow-expression-functions.md	Succeeded	View						
+articles/data-factory/data-flow-lookup.md	Succeeded	View						
+articles/data-factory/data-flow-parse.md	Succeeded	View						
+articles/data-factory/data-flow-sink.md	Succeeded	View						
+articles/data-factory/delete-activity.md	Succeeded	View						
+articles/data-factory/format-avro.md	Succeeded	View						
+articles/data-factory/format-orc.md	Succeeded	View						
+articles/data-factory/format-parquet.md	Succeeded	View						
+articles/data-factory/frequently-asked-questions.md	Succeeded	View						
+articles/data-factory/how-to-create-custom-event-trigger.md	Succeeded	View						
+articles/data-factory/includes/data-factory-v2-connector-overview.md	Succeeded	View						
+articles/data-factory/includes/data-factory-v2-supported-data-stores-for-lookup-activity.md	Succeeded	View						
+articles/data-factory/includes/data-factory-v2-supported-data-stores.md	Succeeded	View						
+articles/data-factory/media/all-costs.png	Succeeded	View						
+articles/data-factory/media/create-self-hosted-integration-runtime/high-level-overview.png	Succeeded	View						
+articles/data-factory/media/data-flow/addsubcolumn.png	Succeeded							
+articles/data-factory/media/data-flow/adf-data-flows.png	Succeeded							
+articles/data-factory/media/data-flow/adfdataflows.png	Succeeded							
+articles/data-factory/media/data-flow/agghead.png	Succeeded							
+articles/data-factory/media/data-flow/canvas1.png	Succeeded							
+articles/data-factory/media/data-flow/canvas2.png	Succeeded							
+articles/data-factory/media/data-flow/columnpattern.png	Succeeded							
+articles/data-factory/media/data-flow/comments2.png	Succeeded							
+articles/data-factory/media/data-flow/dc1.png	Succeeded							
+articles/data-factory/media/data-flow/debugbutton.png	Succeeded							
+articles/data-factory/media/data-flow/derive-script1.png	Succeeded							
+articles/data-factory/media/data-flow/exp3.png	Succeeded							
+articles/data-factory/media/data-flow/exp4b.png	Succeeded							
+articles/data-factory/media/data-flow/exp5.png	Succeeded							
+articles/data-factory/media/data-flow/expb1.png	Succeeded							
+articles/data-factory/media/data-flow/expb2.png	Succeeded							
+articles/data-factory/media/data-flow/mon002.png	Succeeded							
+articles/data-factory/media/data-flow/newbroad.png	Succeeded							
+articles/data-factory/media/data-flow/newdataflow2.png	Succeeded							
+articles/data-factory/media/data-flow/optimize1.png	Succeeded							
+articles/data-factory/media/data-flow/pq-activity-001.png	Succeeded	View						
+articles/data-factory/media/data-flow/search001.png	Succeeded							
+articles/data-factory/media/data-flow/sk002.png	Succeeded							
+articles/data-factory/media/data-flow/sk004.png	Succeeded							
+articles/data-factory/media/data-flow/sk006.png	Succeeded							
+articles/data-factory/media/data-flow/sk008.png	Succeeded							
+articles/data-factory/media/data-flow/xpb1.png	Succeeded							
+articles/data-factory/media/data-flow/xpb2.png	Succeeded							
+articles/data-factory/media/self-hosted-integration-runtime-troubleshoot-guide/add-service-account-to-private-key-1-expanded.png	Succeeded	View						
+articles/data-factory/media/self-hosted-integration-runtime-troubleshoot-guide/add-service-account-to-private-key-1.png	Succeeded	View						
+articles/data-factory/media/self-hosted-integration-runtime-troubleshoot-guide/add-service-account-to-private-key-2-expanded.png	Succeeded	View						
+articles/data-factory/media/self-hosted-integration-runtime-troubleshoot-guide/add-service-account-to-private-key-2.png	Succeeded	View						
+articles/data-factory/media/self-hosted-integration-runtime-troubleshoot-guide/management-console-run-command.png	Succeeded	View						
+articles/data-factory/media/service-specific-cost.png	Succeeded	View						
+articles/data-factory/media/tutorial-bulk-copy-portal/copy-sink-settings.png	Succeeded	View						
+articles/data-factory/media/tutorial-managed-virtual-network/command-record-1.png	Succeeded	View						
+articles/data-factory/media/tutorial-managed-virtual-network/command-record-2.png	Succeeded	View						
+articles/data-factory/media/tutorial-managed-virtual-network/create-load-balancer.png	Succeeded	View						
+articles/data-factory/media/tutorial-managed-virtual-network/link-service-nat-ip-expanded.png	Succeeded	View						
+articles/data-factory/media/tutorial-managed-virtual-network/link-service-nat-ip.png	Succeeded	View						
+articles/data-factory/media/tutorial-managed-virtual-network/linked-service-1.png	Succeeded	View						
+articles/data-factory/media/tutorial-managed-virtual-network/linked-service-2.png	Succeeded	View						
+articles/data-factory/media/tutorial-managed-virtual-network/linked-service-3.png	Succeeded	View						
+articles/data-factory/media/tutorial-managed-virtual-network/linked-service-mi-1.png	Succeeded	View						
+articles/data-factory/media/tutorial-managed-virtual-network/linked-service-mi-2.png	Succeeded	View						
+articles/data-factory/media/tutorial-managed-virtual-network/linked-service-mi-3.png	Succeeded	View						
+articles/data-factory/media/tutorial-managed-virtual-network/private-endpoint-2.png	Succeeded	View						
+articles/data-factory/media/tutorial-managed-virtual-network/private-endpoint.png	Succeeded	View						
+articles/data-factory/media/tutorial-managed-virtual-network/sql-mi-access-model-expanded.png	Succeeded	View						
+articles/data-factory/media/tutorial-managed-virtual-network/sql-mi-access-model.png	Succeeded	View						
+articles/data-factory/media/tutorial-managed-virtual-network/sql-mi-host-expanded.png	Succeeded	View						
+articles/data-factory/media/tutorial-managed-virtual-network/sql-mi-host.png	Succeeded	View						
+articles/data-factory/media/tutorial-managed-virtual-network/sql-server-access-model-expanded.png	Succeeded	View						
+articles/data-factory/media/tutorial-managed-virtual-network/sql-server-access-model.png	Succeeded	View						
+articles/data-factory/media/tutorial-managed-virtual-network/subnets-expanded.png	Succeeded	View						
+articles/data-factory/media/tutorial-managed-virtual-network/subnets.png	Succeeded	View						
+articles/data-factory/parameterize-linked-services.md	Succeeded	View						
+articles/data-factory/supported-file-formats-and-compression-codecs.md	Succeeded	View						
+articles/data-factory/tutorial-bulk-copy-portal.md	Succeeded	View						
+articles/data-factory/wrangling-tutorial.md	Succeeded	View						
+articles/synapse-analytics/sql-data-warehouse/disable-geo-backup.md	Succeeded	View

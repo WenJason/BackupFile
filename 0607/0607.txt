@@ -1,0 +1,298 @@
+articles/azure-sql/database/authentication-aad-configure.md	Suggestion	View	v-jay			sql-db-mi	security	
+Line 33: [Suggestion] Absolute link 'https://docs.microsoft.com/windows-server/identity/ad-fs/deployment/how-to-connect-fed-azure-adfs' will be broken in isolated environments. Replace with a relative link.
+Line 44: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/azuread' will be broken in isolated environments. Replace with a relative link.
+Line 110: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/t-sql/statements/create-login-transact-sql?view=azuresqldb-mi-current&preserve-view=true' will be broken in isolated environments. Replace with a relative link.
+Line 173: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/azure/' will be broken in isolated environments. Replace with a relative link.
+Line 176: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/azure/new-azureps-module-az' will be broken in isolated environments. Replace with a relative link.
+Line 187: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/az.sql/set-azsqlinstanceactivedirectoryadministrator' will be broken in isolated environments. Replace with a relative link.
+Line 188: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/az.sql/remove-azsqlinstanceactivedirectoryadministrator' will be broken in isolated environments. Replace with a relative link.
+Line 189: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/az.sql/get-azsqlinstanceactivedirectoryadministrator' will be broken in isolated environments. Replace with a relative link.
+Line 267: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/azure/' will be broken in isolated environments. Replace with a relative link.
+Line 276: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/az.sql/set-azsqlserveractivedirectoryadministrator' will be broken in isolated environments. Replace with a relative link.
+Line 277: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/az.sql/remove-azsqlserveractivedirectoryadministrator' will be broken in isolated environments. Replace with a relative link.
+Line 278: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/az.sql/get-azsqlserveractivedirectoryadministrator' will be broken in isolated environments. Replace with a relative link.
+Line 331: [Suggestion] Absolute link 'https://docs.microsoft.com/rest/api/sql/' will be broken in isolated environments. Replace with a relative link.
+Line 335: [Suggestion] Absolute link 'https://docs.microsoft.com/graph/permissions-reference#application-permissions-18' will be broken in isolated environments. Replace with a relative link.
+Line 350: [Suggestion] Absolute link 'https://docs.microsoft.com/dotnet/framework/install/guide-for-developers' will be broken in isolated environments. Replace with a relative link.
+Line 352: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/ssms/download-sql-server-management-studio-ssms' will be broken in isolated environments. Replace with a relative link.
+Line 353: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/connect/odbc/download-odbc-driver-for-sql-server?view=sql-server-ver15&preserve-view=true' will be broken in isolated environments. Replace with a relative link.
+Line 354: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/connect/oledb/download-oledb-driver-for-sql-server?view=sql-server-ver15&preserve-view=true' will be broken in isolated environments. Replace with a relative link.
+Line 358: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/ssms/download-sql-server-management-studio-ssms' will be broken in isolated environments. Replace with a relative link.
+Line 358: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/ssdt/download-sql-server-data-tools-ssdt' will be broken in isolated environments. Replace with a relative link.
+Line 365: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/t-sql/statements/create-login-transact-sql?view=azuresqldb-mi-current&preserve-view=true' will be broken in isolated environments. Replace with a relative link.
+Line 367: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/security/contained-database-users-making-your-database-portable' will be broken in isolated environments. Replace with a relative link.
+Line 409: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/t-sql/statements/create-user-transact-sql' will be broken in isolated environments. Replace with a relative link.
+Line 416: [Suggestion] Absolute link 'https://docs.microsoft.com/archive/blogs/dataaccesstechnologies/connection-timeout-issue-with-net-framework-4-6-1-transparentnetworkipresolution' will be broken in isolated environments. Replace with a relative link.
+Line 422: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/system-catalog-views/sys-database-principals-transact-sql' will be broken in isolated environments. Replace with a relative link.
+Line 430: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/ssms/download-sql-server-management-studio-ssms' will be broken in isolated environments. Replace with a relative link.
+Line 430: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/ssdt/download-sql-server-data-tools-ssdt' will be broken in isolated environments. Replace with a relative link.
+Line 521: [Suggestion] Absolute link 'https://docs.microsoft.com/archive/blogs/sqlsecurity/token-based-authentication-support-for-azure-sql-db-using-azure-ad-auth' will be broken in isolated environments. Replace with a relative link.
+Line 538: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/security/authentication-access/principals-database-engine' will be broken in isolated environments. Replace with a relative link.
+Line 539: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/security/authentication-access/database-level-roles' will be broken in isolated environments. Replace with a relative link.
+articles/azure-sql/database/authentication-aad-guest-users.md	Suggestion	View	v-jay			sql-db-mi	security	
+Line 27: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/t-sql/statements/create-user-transact-sql' will be broken in isolated environments. Replace with a relative link.
+Line 59: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/ssms/download-sql-server-management-studio-ssms' will be broken in isolated environments. Replace with a relative link.
+Line 64: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/security/contained-database-users-making-your-database-portable' will be broken in isolated environments. Replace with a relative link.
+Line 90: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/ssms/download-sql-server-management-studio-ssms' will be broken in isolated environments. Replace with a relative link.
+Line 141: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/t-sql/statements/create-user-transact-sql' will be broken in isolated environments. Replace with a relative link.
+articles/azure-sql/database/authentication-aad-service-principal-tutorial.md	Suggestion	View	v-jay			sql-database	security	
+Line 57: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/az.sql/set-azsqlserver' will be broken in isolated environments. Replace with a relative link.
+Line 62: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/az.sql/new-azsqlserver' will be broken in isolated environments. Replace with a relative link.
+Line 62: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/az.sql/set-azsqlserver' will be broken in isolated environments. Replace with a relative link.
+Line 182: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/system-stored-procedures/sp-addrolemember-transact-sql' will be broken in isolated environments. Replace with a relative link.
+Line 270: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/azure/create-azure-service-principal-azureps' will be broken in isolated environments. Replace with a relative link.
+articles/azure-sql/database/authentication-aad-service-principal.md	Suggestion	View	v-jay			sql-db-mi	security	
+Line 32: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/azure/create-azure-service-principal-azureps' will be broken in isolated environments. Replace with a relative link.
+Line 57: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/az.sql/new-azsqlserver' will be broken in isolated environments. Replace with a relative link.
+Line 65: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/az.sql/set-azsqlserver' will be broken in isolated environments. Replace with a relative link.
+Line 70: [Suggestion] Absolute link 'https://docs.microsoft.com/rest/api/sql/2020-08-01-preview/servers' will be broken in isolated environments. Replace with a relative link.
+Line 87: [Suggestion] Absolute link 'https://docs.microsoft.com/rest/api/sql/2020-08-01-preview/servers' will be broken in isolated environments. Replace with a relative link.
+articles/azure-sql/database/auto-failover-group-overview.md	Suggestion	View	v-jay			sql-db-mi	high-availability	
+Line 38: [Suggestion] Absolute link 'https://docs.microsoft.com/rest/api/sql/failovergroups' will be broken in isolated environments. Replace with a relative link.
+Line 195: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/system-dynamic-management-views/sys-dm-geo-replication-link-status-azure-sql-database' will be broken in isolated environments. Replace with a relative link.
+Line 398: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/system-stored-procedures/active-geo-replication-sp-wait-for-database-copy-sync' will be broken in isolated environments. Replace with a relative link.
+Line 418: [Suggestion] Absolute link 'https://docs.microsoft.com/rest/api/sql/' will be broken in isolated environments. Replace with a relative link.
+Line 418: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/azure/' will be broken in isolated environments. Replace with a relative link.
+Line 426: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/az.sql/new-azsqldatabasefailovergroup' will be broken in isolated environments. Replace with a relative link.
+Line 427: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/az.sql/remove-azsqldatabasefailovergroup' will be broken in isolated environments. Replace with a relative link.
+Line 428: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/az.sql/get-azsqldatabasefailovergroup' will be broken in isolated environments. Replace with a relative link.
+Line 429: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/az.sql/set-azsqldatabasefailovergroup' will be broken in isolated environments. Replace with a relative link.
+Line 430: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/az.sql/switch-azsqldatabasefailovergroup' will be broken in isolated environments. Replace with a relative link.
+Line 431: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/az.sql/add-azsqldatabasetofailovergroup' will be broken in isolated environments. Replace with a relative link.
+Line 447: [Suggestion] Absolute link 'https://docs.microsoft.com/rest/api/sql/failovergroups/createorupdate' will be broken in isolated environments. Replace with a relative link.
+Line 448: [Suggestion] Absolute link 'https://docs.microsoft.com/rest/api/sql/failovergroups/delete' will be broken in isolated environments. Replace with a relative link.
+Line 449: [Suggestion] Absolute link 'https://docs.microsoft.com/rest/api/sql/failovergroups/failover' will be broken in isolated environments. Replace with a relative link.
+Line 450: [Suggestion] Absolute link 'https://docs.microsoft.com/rest/api/sql/failovergroups/forcefailoverallowdataloss' will be broken in isolated environments. Replace with a relative link.
+Line 451: [Suggestion] Absolute link 'https://docs.microsoft.com/rest/api/sql/failovergroups/get' will be broken in isolated environments. Replace with a relative link.
+Line 452: [Suggestion] Absolute link 'https://docs.microsoft.com/rest/api/sql/failovergroups/listbyserver' will be broken in isolated environments. Replace with a relative link.
+Line 453: [Suggestion] Absolute link 'https://docs.microsoft.com/rest/api/sql/failovergroups/update' will be broken in isolated environments. Replace with a relative link.
+Line 464: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/az.sql/new-azsqldatabaseinstancefailovergroup' will be broken in isolated environments. Replace with a relative link.
+Line 465: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/az.sql/set-azsqldatabaseinstancefailovergroup' will be broken in isolated environments. Replace with a relative link.
+Line 466: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/az.sql/get-azsqldatabaseinstancefailovergroup' will be broken in isolated environments. Replace with a relative link.
+Line 467: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/az.sql/switch-azsqldatabaseinstancefailovergroup' will be broken in isolated environments. Replace with a relative link.
+Line 468: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/az.sql/remove-azsqldatabaseinstancefailovergroup' will be broken in isolated environments. Replace with a relative link.
+Line 485: [Suggestion] Absolute link 'https://docs.microsoft.com/rest/api/sql/instancefailovergroups/createorupdate' will be broken in isolated environments. Replace with a relative link.
+Line 486: [Suggestion] Absolute link 'https://docs.microsoft.com/rest/api/sql/instancefailovergroups/delete' will be broken in isolated environments. Replace with a relative link.
+Line 487: [Suggestion] Absolute link 'https://docs.microsoft.com/rest/api/sql/instancefailovergroups/failover' will be broken in isolated environments. Replace with a relative link.
+Line 488: [Suggestion] Absolute link 'https://docs.microsoft.com/rest/api/sql/instancefailovergroups/forcefailoverallowdataloss' will be broken in isolated environments. Replace with a relative link.
+Line 489: [Suggestion] Absolute link 'https://docs.microsoft.com/rest/api/sql/instancefailovergroups/get' will be broken in isolated environments. Replace with a relative link.
+Line 490: [Suggestion] Absolute link 'https://docs.microsoft.com/rest/api/sql/instancefailovergroups/listbylocation' will be broken in isolated environments. Replace with a relative link.
+articles/azure-sql/database/connect-query-content-reference-guide.md	Suggestion	View	v-jay			sql-database	service	
+Line 27: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/azure-data-studio/quickstart-sql-database?toc=%2fsql-database%2ftoc.json' will be broken in isolated environments. Replace with a relative link.
+Line 91: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/server-management-objects-smo/sql-server-management-objects-smo-programming-guide' will be broken in isolated environments. Replace with a relative link.
+Line 101: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/connect/ado-net/microsoft-ado-net-sql-server' will be broken in isolated environments. Replace with a relative link.
+Line 102: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/connect/jdbc/microsoft-jdbc-driver-for-sql-server/' will be broken in isolated environments. Replace with a relative link.
+Line 102: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/connect/jdbc/download-microsoft-jdbc-driver-for-sql-server' will be broken in isolated environments. Replace with a relative link.
+Line 103: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/connect/php/microsoft-php-driver-for-sql-server' will be broken in isolated environments. Replace with a relative link.
+Line 103: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/connect/php/download-drivers-php-sql-server' will be broken in isolated environments. Replace with a relative link.
+Line 104: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/connect/node-js/node-js-driver-for-sql-server/' will be broken in isolated environments. Replace with a relative link.
+Line 104: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/connect/node-js/step-1-configure-development-environment-for-node-js-development/' will be broken in isolated environments. Replace with a relative link.
+Line 105: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/connect/python/python-driver-for-sql-server/' will be broken in isolated environments. Replace with a relative link.
+Line 105: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/connect/python/pymssql/step-1-configure-development-environment-for-pymssql-python-development/' will be broken in isolated environments. Replace with a relative link.
+Line 105: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/connect/python/pyodbc/step-1-configure-development-environment-for-pyodbc-python-development/' will be broken in isolated environments. Replace with a relative link.
+Line 106: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/connect/ruby/ruby-driver-for-sql-server/' will be broken in isolated environments. Replace with a relative link.
+Line 106: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/connect/ruby/step-1-configure-development-environment-for-ruby-development/' will be broken in isolated environments. Replace with a relative link.
+Line 107: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/connect/odbc/microsoft-odbc-driver-for-sql-server/' will be broken in isolated environments. Replace with a relative link.
+Line 107: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/connect/odbc/microsoft-odbc-driver-for-sql-server/' will be broken in isolated environments. Replace with a relative link.
+Line 115: [Suggestion] Absolute link 'https://docs.microsoft.com/ef' will be broken in isolated environments. Replace with a relative link.
+Line 115: [Suggestion] Absolute link 'https://docs.microsoft.com/ef/core/index' will be broken in isolated environments. Replace with a relative link.
+Line 126: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/connect/sql-connection-libraries/' will be broken in isolated environments. Replace with a relative link.
+Line 134: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/linux/sql-server-linux-setup-tools' will be broken in isolated environments. Replace with a relative link.
+Line 134: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/ssms/scripting/sqlcmd-use-the-utility' will be broken in isolated environments. Replace with a relative link.
+Line 136: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/connect/ado-net/step-4-connect-resiliently-sql-ado-net' will be broken in isolated environments. Replace with a relative link.
+Line 137: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/connect/php/step-4-connect-resiliently-to-sql-with-php' will be broken in isolated environments. Replace with a relative link.
+articles/azure-sql/database/connectivity-architecture.md	Suggestion	View	v-jay			sql-database	development	
+Line 64: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/database-engine/configure-windows/diagnostic-connection-for-database-administrators#connecting-with-dac' will be broken in isolated environments. Replace with a relative link.
+articles/azure-sql/database/database-copy.md	Suggestion	View	v-jay			sql-database	data-movement	
+Line 48: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/az.sql/new-azsqldatabasecopy' will be broken in isolated environments. Replace with a relative link.
+Line 51: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/azure/new-azureps-module-az' will be broken in isolated environments. Replace with a relative link.
+Line 58: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/az.sql/new-azsqldatabase' will be broken in isolated environments. Replace with a relative link.
+Line 77: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/t-sql/statements/create-database-transact-sql?view=azuresqldb-current&preserve-view=true#copy-a-database' will be broken in isolated environments. Replace with a relative link.
+Line 177: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/system-catalog-views/sys-databases-transact-sql' will be broken in isolated environments. Replace with a relative link.
+Line 177: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/system-dynamic-management-views/sys-dm-database-copies-azure-sql-database' will be broken in isolated environments. Replace with a relative link.
+Line 177: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/system-dynamic-management-views/sys-dm-operation-status-azure-sql-database' will be broken in isolated environments. Replace with a relative link.
+Line 183: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/t-sql/statements/drop-database-transact-sql' will be broken in isolated environments. Replace with a relative link.
+Line 223: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/t-sql/statements/alter-user-transact-sql?view=azuresqldb-current&preserve-view=true' will be broken in isolated environments. Replace with a relative link.
+Line 223: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/sql-server/failover-clusters/troubleshoot-orphaned-users-sql-server' will be broken in isolated environments. Replace with a relative link.
+articles/azure-sql/database/database-import-export-azure-services-off.md	Suggestion	View	v-jay			sql-database	migration	
+Line 65: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/tools/sqlpackage-download' will be broken in isolated environments. Replace with a relative link.
+Line 67: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/tools/sqlpackage' will be broken in isolated environments. Replace with a relative link.
+Line 93: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/tools/sqlpackage' will be broken in isolated environments. Replace with a relative link.
+Line 93: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/tools/sqlpackage#export-parameters-and-properties' will be broken in isolated environments. Replace with a relative link.
+Line 93: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/ssms/download-sql-server-management-studio-ssms' will be broken in isolated environments. Replace with a relative link.
+Line 93: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/ssdt/download-sql-server-data-tools-ssdt' will be broken in isolated environments. Replace with a relative link.
+Line 93: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/tools/sqlpackage-download' will be broken in isolated environments. Replace with a relative link.
+Line 95: [Suggestion] Absolute link 'https://docs.microsoft.com/archive/blogs/sqlcat/migrating-from-sql-server-to-azure-sql-database-using-bacpac-files' will be broken in isolated environments. Replace with a relative link.
+Line 105: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/tools/sqlpackage' will be broken in isolated environments. Replace with a relative link.
+Line 105: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/tools/sqlpackage#import-parameters-and-properties' will be broken in isolated environments. Replace with a relative link.
+Line 105: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/ssms/download-sql-server-management-studio-ssms' will be broken in isolated environments. Replace with a relative link.
+Line 105: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/ssdt/download-sql-server-data-tools-ssdt' will be broken in isolated environments. Replace with a relative link.
+Line 105: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/tools/sqlpackage-download' will be broken in isolated environments. Replace with a relative link.
+Line 107: [Suggestion] Absolute link 'https://docs.microsoft.com/archive/blogs/sqlcat/migrating-from-sql-server-to-azure-sql-database-using-bacpac-files' will be broken in isolated environments. Replace with a relative link.
+Line 143: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/data-tier-applications/data-tier-applications#bacpac' will be broken in isolated environments. Replace with a relative link.
+articles/azure-sql/database/elastic-jobs-tsql-create-manage.md	Suggestion	View	v-jay			sql-database	scale-out	
+Line 179: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/system-catalog-views/sys-indexes-transact-sql' will be broken in isolated environments. Replace with a relative link.
+Line 1348: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/database-engine/configure-windows/media/topic-link.gif' will be broken in isolated environments. Replace with a relative link.
+Line 1348: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/t-sql/language-elements/transact-sql-syntax-conventions-transact-sql' will be broken in isolated environments. Replace with a relative link.
+Line 1353: [Suggestion] Absolute link 'https://docs.microsoft.com/dotnet/framework/data/adonet/sql/authorization-and-permissions-in-sql-server' will be broken in isolated environments. Replace with a relative link.
+articles/azure-sql/database/private-endpoint-overview.md	Suggestion	View	v-jay			sql-database		
+Line 66: [Suggestion] Absolute link 'https://docs.microsoft.com/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc754293%28v%3dws.10%29' will be broken in isolated environments. Replace with a relative link.
+Line 80: [Suggestion] Absolute link 'https://docs.microsoft.com/sysinternals/downloads/psping' will be broken in isolated environments. Replace with a relative link.
+Line 136: [Suggestion] Absolute link 'https://docs.microsoft.com/azure/architecture/example-scenario/private-web-app/private-web-app' will be broken in isolated environments. Replace with a relative link.
+Line 167: [Suggestion] Absolute link 'https://docs.microsoft.com/azure/architecture/example-scenario/private-web-app/private-web-app' will be broken in isolated environments. Replace with a relative link.
+articles/azure-sql/database/sql-data-sync-data-sql-server-sql-database.md	Suggestion	View	v-jay			sql-database	data-movement	
+Line 60: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/integration-services/sql-server-integration-services' will be broken in isolated environments. Replace with a relative link.
+Line 134: [Suggestion] Absolute link 'https://docs.microsoft.com/dotnet/framework/data/adonet/sql/snapshot-isolation-in-sql-server' will be broken in isolated environments. Replace with a relative link.
+Line 276: [Suggestion] Absolute link 'https://docs.microsoft.com/previous-versions/sql/sql-server-guides/jj907294(v=sql.110)' will be broken in isolated environments. Replace with a relative link.
+articles/azure-sql/database/transparent-data-encryption-byok-configure.md	Suggestion	View	v-jay			sql-db-mi	security	
+Line 38: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/azure/install-az-ps' will be broken in isolated environments. Replace with a relative link.
+Line 38: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/AzureRM.Sql/' will be broken in isolated environments. Replace with a relative link.
+Line 43: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/azure/new-azureps-module-az' will be broken in isolated environments. Replace with a relative link.
+Line 53: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/az.sql/new-azsqlserver' will be broken in isolated environments. Replace with a relative link.
+Line 62: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/az.keyvault/set-azkeyvaultaccesspolicy' will be broken in isolated environments. Replace with a relative link.
+Line 71: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/az.keyvault/get-azkeyvaultkey?view=azps-2.4.0' will be broken in isolated environments. Replace with a relative link.
+Line 71: [Suggestion-PR only] Did you mean to link to a specific version? It's usually better not to specify a version, so the link always goes to the canonical version. If you really need to link to a specific version, add &preserve-view=true to the URL: https://docs.microsoft.com/powershell/module/az.keyvault/get-azkeyvaultkey?view=azps-2.4.0. Otherwise, remove the view parameter.
+Line 72: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/az.sql/add-azsqlserverkeyvaultkey' will be broken in isolated environments. Replace with a relative link.
+Line 73: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/az.sql/set-azsqlservertransparentdataencryptionprotector' will be broken in isolated environments. Replace with a relative link.
+Line 74: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/az.sql/get-azsqlservertransparentdataencryptionprotector' will be broken in isolated environments. Replace with a relative link.
+Line 96: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/az.sql/set-azsqldatabasetransparentdataencryption' will be broken in isolated environments. Replace with a relative link.
+Line 107: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/az.sql/get-azsqldatabasetransparentdataencryption' will be broken in isolated environments. Replace with a relative link.
+Line 107: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/az.sql/get-azsqldatabasetransparentdataencryptionactivity' will be broken in isolated environments. Replace with a relative link.
+Line 184: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/az.sql/set-azsqldatabasetransparentdataencryption' will be broken in isolated environments. Replace with a relative link.
+Line 191: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/az.sql/get-azsqlserverkeyvaultkey' will be broken in isolated environments. Replace with a relative link.
+Line 198: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/az.sql/remove-azsqlserverkeyvaultkey' will be broken in isolated environments. Replace with a relative link.
+articles/azure-sql/managed-instance/create-template-quickstart.md	Suggestion	View	v-jay			sql-managed-instance	operations	
+Line 289: [Suggestion] Absolute link 'https://docs.microsoft.com/azure/templates/microsoft.Network/networkSecurityGroups' will be broken in isolated environments. Replace with a relative link.
+Line 290: [Suggestion] Absolute link 'https://docs.microsoft.com/azure/templates/microsoft.Network/routeTables' will be broken in isolated environments. Replace with a relative link.
+Line 291: [Suggestion] Absolute link 'https://docs.microsoft.com/azure/templates/microsoft.Network/virtualNetworks' will be broken in isolated environments. Replace with a relative link.
+Line 292: [Suggestion] Absolute link 'https://docs.microsoft.com/azure/templates/microsoft.sql/managedinstances' will be broken in isolated environments. Replace with a relative link.
+articles/azure-sql/managed-instance/migrate-sql-server-users-to-instance-transact-sql-tsql-tutorial.md	Suggestion	View	v-jay			sql-managed-instance	security	
+Line 200: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/databases/copy-databases-with-backup-and-restore' will be broken in isolated environments. Replace with a relative link.
+articles/azure-sql/managed-instance/replication-transactional-overview.md	Suggestion	View	v-jay			sql-managed-instance	data-movement	
+Line 33: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/ssms/download-sql-server-management-studio-ssms' will be broken in isolated environments. Replace with a relative link.
+Line 33: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/ssdt/download-sql-server-data-tools-ssdt' will be broken in isolated environments. Replace with a relative link.
+Line 63: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/replication/republish-data' will be broken in isolated environments. Replace with a relative link.
+Line 68: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/replication/types-of-replication' will be broken in isolated environments. Replace with a relative link.
+Line 72: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/replication/transactional/transactional-replication' will be broken in isolated environments. Replace with a relative link.
+Line 73: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/replication/snapshot-replication' will be broken in isolated environments. Replace with a relative link.
+Line 74: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/replication/merge/merge-replication' will be broken in isolated environments. Replace with a relative link.
+Line 75: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/replication/transactional/peer-to-peer-transactional-replication' will be broken in isolated environments. Replace with a relative link.
+Line 76: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/replication/transactional/bidirectional-transactional-replication' will be broken in isolated environments. Replace with a relative link.
+Line 77: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/replication/transactional/updatable-subscriptions-for-transactional-replication' will be broken in isolated environments. Replace with a relative link.
+Line 192: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/replication/publish/create-a-publication' will be broken in isolated environments. Replace with a relative link.
+Line 193: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/replication/create-a-push-subscription' will be broken in isolated environments. Replace with a relative link.
+Line 200: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/replication/publish/create-a-publication' will be broken in isolated environments. Replace with a relative link.
+Line 201: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/replication/create-a-push-subscription/' will be broken in isolated environments. Replace with a relative link.
+Line 202: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/replication/types-of-replication' will be broken in isolated environments. Replace with a relative link.
+Line 203: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/replication/monitor/monitoring-replication' will be broken in isolated environments. Replace with a relative link.
+Line 204: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/replication/initialize-a-subscription' will be broken in isolated environments. Replace with a relative link.
+articles/azure-sql/virtual-machines/windows/business-continuity-high-availability-disaster-recovery-hadr-overview.md	Suggestion	View	v-jay			virtual-machines-sql	hadr	
+Line 42: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/database-engine/availability-groups/windows/always-on-availability-groups-sql-server' will be broken in isolated environments. Replace with a relative link.
+Line 43: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/sql-server/failover-clusters/windows/always-on-failover-cluster-instances-sql-server' will be broken in isolated environments. Replace with a relative link.
+Line 44: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/database-engine/log-shipping/about-log-shipping-sql-server' will be broken in isolated environments. Replace with a relative link.
+Line 45: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/backup-restore/sql-server-backup-and-restore-with-microsoft-azure-blob-storage-service' will be broken in isolated environments. Replace with a relative link.
+Line 46: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/database-engine/database-mirroring/database-mirroring-sql-server' will be broken in isolated environments. Replace with a relative link.
+Line 55: [Suggestion] Column headers are required for tables. Add appropriate header text, or remove any extra table cells that cause an extra column.
+Line 134: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/native-client/applications/using-connection-string-keywords-with-sql-server-native-client' will be broken in isolated environments. Replace with a relative link.
+Line 135: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/database-engine/database-mirroring/connect-clients-to-a-database-mirroring-session-sql-server' will be broken in isolated environments. Replace with a relative link.
+Line 136: [Suggestion] Absolute link 'https://docs.microsoft.com/archive/blogs/sqlalwayson/connecting-to-availability-group-listener-in-hybrid-it' will be broken in isolated environments. Replace with a relative link.
+Line 137: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/database-engine/availability-groups/windows/listeners-client-connectivity-application-failover' will be broken in isolated environments. Replace with a relative link.
+Line 138: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/database-engine/availability-groups/windows/listeners-client-connectivity-application-failover' will be broken in isolated environments. Replace with a relative link.
+articles/azure-sql/virtual-machines/windows/performance-guidelines-best-practices-checklist.md	Suggestion	View	v-jay			virtual-machines-sql		
+Line 59: [Suggestion] Absolute link 'https://docs.microsoft.com/windows-server/storage/storage-spaces/overview' will be broken in isolated environments. Replace with a relative link.
+Line 76: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/data-compression/data-compression' will be broken in isolated environments. Replace with a relative link.
+Line 77: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/backup-restore/backup-compression-sql-server' will be broken in isolated environments. Replace with a relative link.
+Line 78: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/databases/database-instant-file-initialization' will be broken in isolated environments. Replace with a relative link.
+Line 79: [Suggestion] Absolute link 'https://docs.microsoft.com/troubleshoot/sql/admin/considerations-autogrow-autoshrink#considerations-for-autogrow' will be broken in isolated environments. Replace with a relative link.
+Line 80: [Suggestion] Absolute link 'https://docs.microsoft.com/troubleshoot/sql/admin/considerations-autogrow-autoshrink#considerations-for-auto_shrink' will be broken in isolated environments. Replace with a relative link.
+Line 82: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/databases/move-system-databases' will be broken in isolated environments. Replace with a relative link.
+Line 85: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/database-engine/configure-windows/server-memory-server-configuration-options#use-' will be broken in isolated environments. Replace with a relative link.
+Line 85: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/performance-monitor/monitor-memory-usage' will be broken in isolated environments. Replace with a relative link.
+Line 86: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/database-engine/configure-windows/enable-the-lock-pages-in-memory-option-windows' will be broken in isolated environments. Replace with a relative link.
+Line 87: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/database-engine/configure-windows/optimize-for-ad-hoc-workloads-server-configuration-option' will be broken in isolated environments. Replace with a relative link.
+Line 88: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/database-engine/install-windows/latest-updates-for-microsoft-sql-server' will be broken in isolated environments. Replace with a relative link.
+Line 89: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/performance/monitoring-performance-by-using-the-query-store' will be broken in isolated environments. Replace with a relative link.
+Line 89: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/performance/best-practice-with-the-query-store' will be broken in isolated environments. Replace with a relative link.
+Line 90: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/automatic-tuning/automatic-tuning' will be broken in isolated environments. Replace with a relative link.
+Line 91: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/databases/tempdb-database#optimizing-tempdb-performance-in-sql-server' will be broken in isolated environments. Replace with a relative link.
+Line 93: [Suggestion] Absolute link 'https://docs.microsoft.com/troubleshoot/sql/performance/recommendations-reduce-allocation-contention#resolution' will be broken in isolated environments. Replace with a relative link.
+Line 94: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/t-sql/database-console-commands/dbcc-checkdb-transact-sql#a-checking-both-the-current-and-another-database' will be broken in isolated environments. Replace with a relative link.
+Line 94: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/indexes/reorganize-and-rebuild-indexes#reorganize-an-index' will be broken in isolated environments. Replace with a relative link.
+Line 94: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/indexes/reorganize-and-rebuild-indexes#rebuild-an-index' will be broken in isolated environments. Replace with a relative link.
+Line 94: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/t-sql/statements/update-statistics-transact-sql#examples' will be broken in isolated environments. Replace with a relative link.
+Line 95: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/relational-databases/logs/manage-the-size-of-the-transaction-log-file#Recommendations' will be broken in isolated environments. Replace with a relative link.
+Line 96: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/sql-server/what-s-new-in-sql-server-ver15' will be broken in isolated environments. Replace with a relative link.
+Line 97: [Suggestion] Absolute link 'https://docs.microsoft.com/sql/sql-server/editions-and-components-of-sql-server-version-15' will be broken in isolated environments. Replace with a relative link.
+articles/azure-sql/virtual-machines/windows/storage-configuration.md	Suggestion	View	v-jay			virtual-machines-sql	management	
+Line 153: [Suggestion] Absolute link 'https://docs.microsoft.com/powershell/module/az.compute/set-azvmdatadisk' will be broken in isolated environments. Replace with a relative link.
+Line 197: [Suggestion] Absolute link 'https://docs.microsoft.com/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh831739(v=ws.11)' will be broken in isolated environments. Replace with a relative link.
+Line 216: [Suggestion] Absolute link 'https://docs.microsoft.com/windows/win32/w8cookbook/vds-is-transitioning-to-wmiv2-based-windows-storage-management-api' will be broken in isolated environments. Replace with a relative link.
+Line 218: [Suggestion] Absolute link 'https://docs.microsoft.com/windows-server/storage/storage-spaces/storage-spaces-direct-in-vm' will be broken in isolated environments. Replace with a relative link.
+articles/media-services/latest/create-streaming-locator-build-url.md	Suggestion	View	v-jay			media-services		
+Line 22: [Suggestion] Absolute link 'https://docs.microsoft.com/rest/api/media/streamingendpoints' will be broken in isolated environments. Replace with a relative link.
+articles/media-services/latest/monitoring/monitor-media-services-data-reference.md	Suggestion	View	v-jay			media-services		
+Line 32: [Suggestion] Absolute link 'https://docs.microsoft.com/rest/api/media/streamingendpoints' will be broken in isolated environments. Replace with a relative link.
+articles/media-services/latest/release-notes.md	Suggestion	View	v-jay			media-services		
+Line 238: [Suggestion] Absolute link 'https://docs.microsoft.com/rest/api/media/jobs' will be broken in isolated environments. Replace with a relative link.
+Line 240: [Suggestion] Absolute link 'https://docs.microsoft.com/rest/api/media/transforms' will be broken in isolated environments. Replace with a relative link.
+Line 240: [Suggestion] Absolute link 'https://docs.microsoft.com/rest/api/media/transforms/createorupdate#builtinstandardencoderpreset' will be broken in isolated environments. Replace with a relative link.
+Line 240: [Suggestion] Absolute link 'https://docs.microsoft.com/rest/api/media/transforms/createorupdate#standardencoderpreset' will be broken in isolated environments. Replace with a relative link.
+Line 273: [Suggestion] Absolute link 'https://docs.microsoft.com/rest/api/media/transforms/createorupdate#facedetectorpreset' will be broken in isolated environments. Replace with a relative link.
+Line 274: [Suggestion] Absolute link 'https://docs.microsoft.com/rest/api/media/transforms/createorupdate#encodernamedpreset' will be broken in isolated environments. Replace with a relative link.
+Line 307: [Suggestion] Absolute link 'https://docs.microsoft.com/cli/azure/ams' will be broken in isolated environments. Replace with a relative link.
+Line 311: [Suggestion] Absolute link 'https://docs.microsoft.com/cli/azure/ams/account' will be broken in isolated environments. Replace with a relative link.
+Line 312: [Suggestion] Absolute link 'https://docs.microsoft.com/cli/azure/ams/account-filter' will be broken in isolated environments. Replace with a relative link.
+Line 313: [Suggestion] Absolute link 'https://docs.microsoft.com/cli/azure/ams/asset' will be broken in isolated environments. Replace with a relative link.
+Line 314: [Suggestion] Absolute link 'https://docs.microsoft.com/cli/azure/ams/asset-filter' will be broken in isolated environments. Replace with a relative link.
+Line 315: [Suggestion] Absolute link 'https://docs.microsoft.com/cli/azure/ams/content-key-policy' will be broken in isolated environments. Replace with a relative link.
+Line 316: [Suggestion] Absolute link 'https://docs.microsoft.com/cli/azure/ams/job' will be broken in isolated environments. Replace with a relative link.
+Line 317: [Suggestion] Absolute link 'https://docs.microsoft.com/cli/azure/ams/live-event' will be broken in isolated environments. Replace with a relative link.
+Line 318: [Suggestion] Absolute link 'https://docs.microsoft.com/cli/azure/ams/live-output' will be broken in isolated environments. Replace with a relative link.
+Line 319: [Suggestion] Absolute link 'https://docs.microsoft.com/cli/azure/ams/streaming-endpoint' will be broken in isolated environments. Replace with a relative link.
+Line 320: [Suggestion] Absolute link 'https://docs.microsoft.com/cli/azure/ams/streaming-locator' will be broken in isolated environments. Replace with a relative link.
+Line 321: [Suggestion] Absolute link 'https://docs.microsoft.com/cli/azure/ams/account/mru' will be broken in isolated environments. Replace with a relative link.
+articles/media-services/latest/stream-live-tutorial-with-api.md	Suggestion	View	v-jay			media-services		
+Line 25: [Suggestion] Absolute link 'https://docs.microsoft.com/rest/api/media/streamingendpoints' will be broken in isolated environments. Replace with a relative link.
+Line 38: [Suggestion] Absolute link 'https://docs.microsoft.com/dotnet/api/microsoft.azure.management.media.models.liveevent' will be broken in isolated environments. Replace with a relative link.
+Line 38: [Suggestion] Absolute link 'https://docs.microsoft.com/rest/api/media/liveevents' will be broken in isolated environments. Replace with a relative link.
+Line 38: [Suggestion] Absolute link 'https://docs.microsoft.com/cli/ams/live-event' will be broken in isolated environments. Replace with a relative link.
+articles/media-services/latest/stream-live-tutorial-with-nodejs.md	Suggestion	View	v-jay			media-services		
+Line 25: [Suggestion] Absolute link 'https://docs.microsoft.com/rest/api/media/liveevents' will be broken in isolated environments. Replace with a relative link.
+Line 25: [Suggestion] Absolute link 'https://docs.microsoft.com/rest/api/media/streamingendpoints' will be broken in isolated environments. Replace with a relative link.
+Line 505: [Suggestion] Absolute link 'https://docs.microsoft.com/azure/developer/javascript/' will be broken in isolated environments. Replace with a relative link.
+Line 507: [Suggestion] Absolute link 'https://docs.microsoft.com/javascript/api/overview/azure/' will be broken in isolated environments. Replace with a relative link.
+articles/media-services/latest/transform-custom-presets-how-to.md	Suggestion	View	v-jay			media-services		
+Line 47: [Suggestion] Absolute link 'https://docs.microsoft.com/rest/api/media/transforms' will be broken in isolated environments. Replace with a relative link.
+Line 47: [Suggestion] Absolute link 'https://docs.microsoft.com/rest/api/media/transforms/createorupdate#transformoutput' will be broken in isolated environments. Replace with a relative link.
+Line 49: [Suggestion] Absolute link 'https://docs.microsoft.com/rest/api/media/transforms' will be broken in isolated environments. Replace with a relative link.
+includes/azure-mediaservices-limits.md	Suggestion	View	v-jay			media-services		
+Line 37: [Suggestion] Absolute link 'https://docs.microsoft.com/previous-versions/dynamicscrm-2015/developers-guide/gg309461(v=crm.7)' will be broken in isolated environments. Replace with a relative link.
+includes/media-servieces-limits-quotas-constraints.md	Suggestion	View	v-jay			media-services		
+Line 80: [Suggestion] Absolute link 'https://docs.microsoft.com/rest/api/media/streamingpolicies' will be broken in isolated environments. Replace with a relative link.
+articles/azure-sql/database/arm-templates-content-guide.md	Succeeded	View						
+articles/azure-sql/database/media/private-endpoint/pe-connect-overview.png	Succeeded	View						
+articles/azure-sql/database/media/private-endpoint/pec-approve.png	Succeeded	View						
+articles/azure-sql/database/media/private-endpoint/pec-click.png	Succeeded	View						
+articles/azure-sql/database/media/private-endpoint/pec-ip-display.png	Succeeded	View						
+articles/azure-sql/database/media/private-endpoint/pec-list-after.png	Succeeded	View						
+articles/azure-sql/database/media/private-endpoint/pec-list-before.png	Succeeded	View						
+articles/azure-sql/database/media/private-endpoint/pec-nic-click.png	Succeeded	View						
+articles/azure-sql/database/media/private-endpoint/pec-select.png	Succeeded	View						
+articles/azure-sql/database/media/private-endpoint/telnet-result.png	Succeeded	View						
+articles/azure-sql/database/sql-database-vulnerability-assessment-rules.md	Succeeded	View						
+articles/azure-sql/managed-instance/media/long-term-backup-retention-configure/ltr-available-backups-restore.png	Succeeded	View						
+articles/azure-sql/managed-instance/media/long-term-backup-retention-configure/ltr-available-backups-select-database.png	Succeeded	View						
+articles/azure-sql/managed-instance/media/long-term-backup-retention-configure/ltr-available-backups.png	Succeeded	View						
+articles/azure-sql/managed-instance/media/long-term-backup-retention-configure/ltr-configure-ltr.png	Succeeded	View						
+articles/azure-sql/managed-instance/media/long-term-backup-retention-configure/ltr-configure-policies.png	Succeeded	View						
+articles/azure-sql/managed-instance/media/long-term-backup-retention-configure/ltr-restore.png	Succeeded	View						
+articles/azure-sql/managed-instance/media/long-term-backup-retention-configure/restore-job-progress-long-term.png	Succeeded	View						
+articles/azure-sql/migration-guides/virtual-machines/media/sql-server-to-sql-on-azure-vm-individual-databases-guide/virtual-machine-migration-downtime.png	Succeeded	View						
+articles/media-services/latest/TOC.yml	Succeeded	View						
+articles/media-services/latest/analyze-face-redaction-concept.md	Succeeded	View						
+articles/media-services/latest/job-download-results-how-to.md	Succeeded	View						
+articles/media-services/latest/samples-overview.md	Succeeded	View						
+articles/media-services/latest/transform-create-thumbnail-sprites-how-to.md	Succeeded	View						
+articles/media-services/latest/transform-stitch-how-to.md	Succeeded	View						
+articles/media-services/previous/media-services-sspk.md	Succeeded	View						
+articles/mysql/single-server-whats-new.md	Succeeded	View

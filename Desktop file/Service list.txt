@@ -1,0 +1,42 @@
+Automation v
+
+DNS v
+
+Media Service
+
+Storage v
+
+Sql-Database v
+
+Mysql v
+
+Postgresql v
+
+Load balancer v
+
+Azure-stack
+
+vpn-gateway
+
+sql-data-warehouse v
+
+scheduler v
+
+Data Box
+
+
+review:
+Storage             Sercan Guler <seguler@microsoft.com>
+Media Service       Julia Kornich <juliako@microsoft.com>
+mysql postgresql    Jan Engelsberg <Jan.Engelsberg@microsoft.com>    Jason Howell (CONTENT) <Jason.Howell@microsoft.com>
+sql-database        Matt Neerincx <mattn@microsoft.com>
+azure-stack         quying@microsoft.com
+load-balancer       Christian Kuhtz <chkuhtz@microsoft.com>
+Vpn-gateway         Yu-Shun Wang Yu-Shun.Wang@microsoft.com
+sql-data-warehouse  igorstan@microsoft.com
+
+
+
+
+
+git log --stat  --after="2020-01-15 00:00:00" --before="2020-01-15 16:00:00" --name-status

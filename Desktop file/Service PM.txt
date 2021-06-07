@@ -1,0 +1,17 @@
+Automation: Ganesh Gopal<ggopal@>
+Dns: Rohin Koul< rohink@>
+Load-balancer: Narayan Annamalai< narayan@>
+Mysql: Sunil Kamath< sukamat@>
+Postgresql: Sunil Kamath< sukamat@>
+Mariadb: Sunil Kamath< sukamat@>
+Sql Data Warehouse: Bhavya Nag < bhnag@>
+Vpn-gateway: Yu-Shun Wang< yushwang@>
+Scheduler: Kevin Lam< klam@>
+Azure Database Migration Service: Shau Phang< scphang@>
+Storage: Klaas Langhout< klaasl@>
+SQL DB: Peter Carlin< peterca@>
+Media services: Julia Kornich <juliako@microsoft.com>
+Azure stack: Guang Hu <guanghu@microsoft.com>
+Data Factory: Linda Wang <jingwang@microsoft.com>
+Data box: unknown
+MS Lva: Avi Kewalramani <avkewalr@microsoft.com>
