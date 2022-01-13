@@ -1,0 +1,76 @@
+
+https://docs.microsoft.com/en-us/azure/azure-sql/database/auditing-overview#auditing-of-microsoft-support-operations
+
+
+
+
+Mysql :general v1 v2
+
+
+D:\Repository\en-us.live\mc-docs-pr.en-us\articles\mysql\single-server-whats-new.md
+
+D:\Repository\en-us.live\mc-docs-pr.en-us\articles\media-services\latest\encode-content-aware-concept.md(## 8-bit HEVC (H.265) Support
+)
+
+D:\Repository\en-us.live\mc-docs-pr.en-us\articles\azure-sql\database\connectivity-settings.md ## Minimal TLS version 
+
+
+D:\Repository\en-us.live\mc-docs-pr.en-us\articles\dms\quickstart-create-data-migration-service-hybrid-portal.md ## Set up the Azure Database Migration Service hybrid worker using PowerShell
+
+0908
+https://docs.azure.cn/zh-cn/automation/learn/powershell-runbook-managed-identity
+
+0913
+D:\Repository\en-us.live\mc-docs-pr.en-us\articles\mysql\concepts-server-parameters.md ### binlog_expire_logs_seconds
+
+
+0916 
+Azure sql backup Differential backup frequency
+
+
+0920
+D:\Repository\Latest\azure-docs-pr\articles\azure-sql\migration-guides\managed-instance\sql-server-to-managed-instance-overview.md（dms/migration-using-azure-data-studio.md）
+D:\Repository\Latest\azure-docs-pr\articles\azure-sql\migration-guides\virtual-machines\sql-server-to-sql-on-azure-vm-migration-overview.md
+
+
+0927
+D:\Repository\en-us.live\mc-docs-pr.en-us\articles\azure-sql\database\authentication-aad-directory-readers-role-tutorial.md
+
+
+
+1004 
+D:\Repository\en-us.live\mc-docs-pr.en-us\articles\postgresql\concepts-audit.md(## Installing pgAudit)
+
+1011
+azure-sql/database/security-server-roles
+D:\Repository\en-us.live\mc-docs-pr.en-us\articles\media-services\latest\encode-concept-preset-overrides.md
+D:\Repository\en-us.live\mc-docs-pr.en-us\articles\media-services\latest\integrate-azure-functions-dotnet-how-to.md
+D:\Repository\en-us.live\mc-docs-pr.en-us\articles\media-services\latest\release-notes.md(### Streaming Endpoint portal page now shows CPU, egress and latency metrics)
+
+
+1025
+dms/tutorial-sql-server-managed-instance-offline-ads.md
+dms/tutorial-sql-server-managed-instance-online-ads.md
+dms/tutorial-sql-server-to-virtual-machine-offline-ads.md
+dms/tutorial-sql-server-to-virtual-machine-online-ads.md
+D:\Repository\en-us.live\mc-docs-pr.en-us\articles\media-services\latest\stream-live-tutorial-with-api.md (pass through basic and standard)
+D:\Repository\en-us.live\mc-docs-pr.en-us\articles\azure-sql\database\authentication-azure-ad-only-authentication-create-server.md (portal tab)
+D:\Repository\en-us.live\mc-docs-pr.en-us\articles\azure-sql\database\private-endpoint-overview.md （consider。。。。）
+D:\Repository\en-us.live\mc-docs-pr.en-us\articles\azure-sql\database\security-best-practice.mdThe use of [Extensible Key Management (EKM)]
+azure-sql/database/service-tier-hyperscale    Available regions
+https://docs.microsoft.com/zh-cn/azure/azure-sql/managed-instance/restore-sample-database-quickstart#restore-from-a-backup-file-using-the-restore-wizard
+
+
+D:\Repository\en-us.live\mc-docs-pr.en-us\articles\synapse-analytics\sql-data-warehouse\sql-data-warehouse-tables-partition.md (notes)
+
+D:\Repository\en-us.live\mc-docs-pr.en-us\articles\azure-sql\database\outbound-firewall-rule-overview.md
+D:\Repository\Latest\azure-docs-pr\articles\azure-sql\database\single-database-create-quickstart.md (SQL UP)
+D:\Repository\en-us.live\mc-docs-pr.en-us\articles\azure-sql\database\sql-vulnerability-assessment.md(configure steps)
+
+
+
+1115
+
+https://docs.microsoft.com/en-us/sql/relational-databases/track-changes/enable-and-disable-change-data-capture-sql-server?view=sql-server-ver15
+https://docs.microsoft.com/en-us/sql/relational-databases/performance/query-store-hints?view=azuresqldb-current&preserve-view=true
+D:\Repository\en-us.live\mc-docs-pr.en-us\articles\azure-sql\database\authentication-azure-ad-only-authentication-create-server.md (## Azure SQL Managed Instance)

@@ -1,0 +1,3 @@
+Automation:
+automation\update-management\remove-vms.md                          computer group 
+automation\update-management\scope-configuration.md                 computer group 

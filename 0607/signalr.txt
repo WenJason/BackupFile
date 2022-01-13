@@ -1,3 +1,0 @@
-articles/azure-signalr/signalr-quickstart-azure-signalr-service-arm-template.md	
-articles/azure-signalr/signalr-quickstart-dotnet-core.md	
-articles/azure-signalr/howto-use-managed-identity.md					
