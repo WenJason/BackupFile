@@ -1,0 +1,59 @@
+JUNO Requirement List:
+
+1. [SQL to Kusto query translation - Azure Data Explorer | Microsoft Docs](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/sqlcheatsheet#sql-to-kusto-cheat-sheet)
+SQL to Kusto query translation - Azure Data Explorer
+This article describes SQL to Kusto query translation in Azure Data Explorer.
+
+2. [KQL quick reference | Kusto](https://kusto.azurewebsites.net/docs/kql-quick-reference.html)
+Sign in to your account
+
+3. [Explore - Lens Explorer (msftcloudes.com)](https://lens.msftcloudes.com/#/discover/query//results/table?temp=0&isSample=false&isVersion=0&isHistory=0&_g=(ws:cc53e06f-fa20-46d4-8275-a8f89c9155a4))
+Lens Explorer
+
+4. [How to get the File List from Lens report](onenote:https://microsoft.sharepoint.com/teams/celoc4dev/Shared%20Documents/OneNote/SWLoc%20SvE%20OneNote/Juno%20Content.one#How%20to%20get%20the%20File%20List%20from%20Lens%20report&section-id=%7B09B08CB4-969E-473B-BD93-6A3AF9CED1B7%7D&page-id=%7B4C8F0421-A0AD-4C6C-9827-F454520E871E%7D&end)
+[(Web view)](https://microsoft.sharepoint.com/teams/celoc4dev/_layouts/OneNote.aspx?id=%2Fteams%2Fceloc4dev%2FShared+Documents%2FOneNote%2FSWLoc+SvE+OneNote&wd=target%28Juno+Content.one%7C09B08CB4-969E-473B-BD93-6A3AF9CED1B7%2FHow+to+get+the+File+List+from+Lens+report%7C4C8F0421-A0AD-4C6C-9827-F454520E871E%2F%29&xsdata=MDN8MDF8fDNmMzQ3NzAyNzg4YjQ0YWE5ZWEzMTdiNTA1OTY3YzQ1fDcyZjk4OGJmODZmMTQxYWY5MWFiMmQ3Y2QwMTFkYjQ3fDF8MHw2Mzc4MTk2MjI5MDkwNTM5NjR8R29vZHxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT0%3D&sdata=dDFHYjBqMk5rMWNOSERCTlk3ZkV0VHJCZVJLbVd6UFFnVVRjc2QzZG51Zz0%3D&ovuser=72f988bf-86f1-41af-91ab-2d7cd011db47%2Cv-yeche%40microsoft.com)
+[How to get the File List from Lens report]
+(https://microsoft.sharepoint.com/teams/celoc4dev/Shared%20Documents/OneNote/SWLoc%20SvE%20OneNote)
+
+
+5. JUNO PARAMETER
+JUNO branch: mc-docs-pr.live
+JUNO Host Content Group (HCG): mc-docs-pr.live
+
+6. JUNO Fetch handback file list.
+mc-docs-pr.main
+status 'handedback'
+
+7. To see the LocFiles which should be published (status are CheckedIn)If you want to get the File list which contains all FileName that the Status is "CheckedIn" 
+(which means those files are sent back to OPS and should be Published) in one Branch.
+
+8. Kusto Sample List
+FileTrackingAggregate
+| where BranchName == "mc-docs-pr.live" and tolower(Cultures)=="zh-cn" and tolower( FileTrackingStatus  ) =="handedback"
+| summarize arg_max( EventTime , *) by FileName
+ //| distinct *
+| order by EventTime
+
+
+(MEMO)
+| where EventTime > ago(10d)
+| where EventTime > datetime(2021-01-08)
+| order by EventTime asc  //desc
+| extend timediffH = datetime_diff('hour', now(), EventTime ) 
+Branch | extend MY = iif( IsInActive == 1, "Yes", "no") 
+let test1 = datatable (reponame1:string) ['databricks-pr' ,'commercialization-docs-pr'];
+:
+| where RepoNameGlobal in~ (test1)  
+
+// Query for panel Branch_list
+set query_take_max_records=5000;
+Branch
+| where IsDeleted == 0
+| join kind = leftouter (HostContentStore) on $left.HostContentStoreId == $right.Id
+| project BranchName = Name , HCS = Name1 , IsInActive , BranchId
+| distinct *
+| order by BranchName asc
+
+9. JUNO wiki reference
+[Content JUNO - Overview (azure.com)](https://dev.azure.com/ceapex/CEINTL/_wiki/wikis/CEINTL.wiki/3332/Content-JUNO)
+
